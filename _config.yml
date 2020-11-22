@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yicong Hong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at the Australian National University"
+  location         : "Canberra, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AerHOzUAAAAJ&hl=en"
-  email            : firstname.lastname@anu.edu.au
+  email            : "yicong.hong@anu.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Yicong_Hong2"
   uri              :
   bitbucket        :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/YicongHong"
