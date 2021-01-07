@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yicong Hong"
 title_separator          : "-"
-name                     : &name "Yicong Hong" | "洪一葱"
+name                     : &name "Yicong Hong"
 description              : &description "PhD student at the Australian National University"
 url                      : https://yiconghong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
