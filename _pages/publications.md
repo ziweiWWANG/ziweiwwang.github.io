@@ -13,6 +13,6 @@ author_profile: true
 
 In <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2020.<br>
 [[Paper](https://papers.nips.cc/paper/2020/hash/56dc0997d871e9177069bb472574eb29-Abstract.html)] [[Supplemental](https://papers.nips.cc/paper/2020/file/56dc0997d871e9177069bb472574eb29-Supplemental.pdf)] [[GitHub](https://github.com/YicongHong/Entity-Graph-VLN)]<br>
-</p>
+<\p>
 
 And another paper ...
