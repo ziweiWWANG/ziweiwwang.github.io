@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="left" width="500" height="180" src="./../images/p2-teaser.png"/>
+<img align="left" width="500" height="180" src="./../images/p2-teaser.png" style="padding-right:20px"/>
 
 **Language and Visual Entity Relationship Graph for Agent Navigation**<br>
 [**Yicong Hong**](http://www.yiconghong.me/), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Yuankai Qi](https://sites.google.com/site/yuankiqi/home), [Qi Wu](http://www.qi-wu.me/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
