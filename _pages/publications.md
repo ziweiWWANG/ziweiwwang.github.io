@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="left" width="300" height="110" src="./../images/p3-teaser.png" style="padding-right:20px; padding-top:20px"/>
+
+**A Recurrent Vision-and-Language BERT for Navigation**<br>
+[**Yicong Hong**](http://www.yiconghong.me/), [Qi Wu](http://www.qi-wu.me/), [Yuankai Qi](https://sites.google.com/site/yuankiqi/home), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
+
+Under review, 2020.<br>
+[[Paper & Supplemental](https://arxiv.org/abs/2011.13922)] [GitHub (Soon)]<br>
+
 <img align="left" width="300" height="110" src="./../images/p2-teaser.png" style="padding-right:20px; padding-top:20px"/>
 
 **Language and Visual Entity Relationship Graph for Agent Navigation**<br>
