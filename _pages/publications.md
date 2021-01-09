@@ -28,5 +28,3 @@ In the <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2
 
 In the <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2020.<br>
 [[Paper & Supplemental](https://www.aclweb.org/anthology/2020.emnlp-main.271/)] [[GitHub](https://github.com/YicongHong/Fine-Grained-R2R)]<br>
-
-And another paper ...
