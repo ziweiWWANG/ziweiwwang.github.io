@@ -11,7 +11,7 @@ author_profile: true
 [**Yicong Hong**](http://www.yiconghong.me/), [Qi Wu](http://www.qi-wu.me/), [Yuankai Qi](https://sites.google.com/site/yuankiqi/home), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
 
 Under review, 2020.<br>
-[[Paper & Supplemental](https://arxiv.org/abs/2011.13922)] [GitHub (Soon)]<br>
+[[Paper & Supplemental](https://arxiv.org/abs/2011.13922)] [[GitHub](https://github.com/YicongHong/Recurrent-VLN-BERT)]<br>
 
 ---
 
