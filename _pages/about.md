@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD student in the College of Engineering and Computer Science at the Australian National University (ANU), as well as a PhD researcher at the Australian Centre for Robotic Vision (ACRV). I am under the supervision of Prof. Stephen Gould (ANU), Dr. Qi Wu (UoA) and Prof. Lexing Xie (ANU). I has a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of Vision-and-Language Navigation.
+Hi, this is Yicong, welcome to my homepage! :smiley:
+
+I am a PhD student in the College of Engineering and Computer Science at the [Australian National University (ANU)](https://www.anu.edu.au/), as well as a PhD researcher at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about).
+
+I am under the supervision of Prof. Stephen Gould (ANU), Dr. Qi Wu (UoA) and Prof. Lexing Xie (ANU). I has a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of Vision-and-Language Navigation.
