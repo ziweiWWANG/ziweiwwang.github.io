@@ -9,25 +9,23 @@ redirect_from:
 ---
 
 <style type="text/css">
-#submit {
+#touch {
  background-color: #bbb;
  padding: .5em;
  -moz-border-radius: 5px;
  -webkit-border-radius: 5px;
  border-radius: 6px;
  color: #fff;
- font-family: 'Oswald';
- font-size: 20px;
+ font-size: 16px;
  text-decoration: none;
  border: none;
 }
-#submit:hover {
+#touch:hover {
  border: none;
  background: orange;
  box-shadow: 0px 0px 1px #777;
 }
 </style>
-<button id="submit">Example Button</button>
 
 Hi, this is Yicong, welcome to my homepage! 😀
 
@@ -43,7 +41,7 @@ News
 ======
 
 **2021.03.06**
-- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as Oral with 3 strong accepts! 😆😆😆 <a href="https://arxiv.org/abs/2011.13922"><button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal">PDF</button></a> <a href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal">Code</button></a>
+- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as Oral with 3 strong accepts! 😆😆😆 <a href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
 
 **2020.09.26**
