@@ -16,7 +16,7 @@ redirect_from:
  -webkit-border-radius: 5px;
  border-radius: 6px;
  color: #fff;
- font-size: 16px;
+ font-size: 15px;
  text-decoration: none;
  border: none;
 }
