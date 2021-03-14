@@ -10,7 +10,7 @@ author_profile: true
 **A Recurrent Vision-and-Language BERT for Navigation**<br>
 [**Yicong Hong**](http://www.yiconghong.me/), [Qi Wu](http://www.qi-wu.me/), [Yuankai Qi](https://sites.google.com/site/yuankiqi/home), [Cristian Rodriguez-Opazo](https://crodriguezo.github.io/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/)<br>
 
-Under review, 2020.<br>
+In the <em>Conference on Computer Vision and Pattern Recognition<em>, 2021.<br>
 [[Paper & Supplemental](https://arxiv.org/abs/2011.13922)] [[GitHub](https://github.com/YicongHong/Recurrent-VLN-BERT)]<br>
 
 ---
