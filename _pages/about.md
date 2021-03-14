@@ -43,7 +43,7 @@ News
 ======
 
 **2021.03.06**
-- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
+- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a href="https://arxiv.org/abs/2011.13922" target="_blank"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Recurrent-VLN-BERT" target="_blank"><button id="touch">Code</button></a>
 
 **2020.09.26**
 - Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
