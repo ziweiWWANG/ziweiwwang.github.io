@@ -21,6 +21,8 @@ News
 =====================
 
 
-**2020.09.26** Our Language and Visual Entity Relationship Graph for Agent Navigation has been accepted by NeurIPS 2020!
+**2020.09.26**
+- Our Language and Visual Entity Relationship Graph for Agent Navigation has been accepted by NeurIPS 2020!
 
-**2020.09.15** Our Sub-Instruction Aware Vision-and-Language Navigation has been accepted by EMNLP 2020!
+**2020.09.15**
+- Our Sub-Instruction Aware Vision-and-Language Navigation has been accepted by EMNLP 2020!
