@@ -26,6 +26,10 @@ News
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal">[Cite](https://arxiv.org/abs/2011.13922)</button>
 
+<a href="https://arxiv.org/abs/2011.13922"><button>Text</button></a>
+
+<a href="https://arxiv.org/abs/2011.13922"><button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal">Text</button></a>
+
 <a class="button" href="https://arxiv.org/abs/2011.13922">Button</a>
 
 **2020.09.26**
