@@ -12,13 +12,14 @@ Hi, this is Yicong, welcome to my homepage!
 
 I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about).
 
-I am under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU), [Dr. Qi Wu](http://www.qi-wu.me/) (UoA) and [Prof. Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) (ANU). I has a broad research interests in computer vision, natural language processing and robotics.
+I am under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU), [Dr. Qi Wu](http://www.qi-wu.me/) (UoA) and [Prof. Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) (ANU).
 
-Currently, my main research focus is on the problem of Vision-and-Language Navigation (VLN).
+I has a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of Vision-and-Language Navigation (VLN).
 
+------
 
 News
-=====================
+======
 
 **2021.03.06**
 - Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted by CVPR 2021 as Oral with 3 strong accepts!
