@@ -11,7 +11,7 @@ redirect_from:
 <style type="text/css">
 #touch {
  background-color: #bbb;
- padding: .5em;
+ padding: .4em;
  -moz-border-radius: 5px;
  -webkit-border-radius: 5px;
  border-radius: 6px;
