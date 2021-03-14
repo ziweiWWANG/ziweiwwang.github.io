@@ -22,7 +22,7 @@ News
 ======
 
 **2021.03.06**
-- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted by CVPR 2021 as Oral with 3 strong accepts!
+- Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted by CVPR 2021 as Oral with 3 strong accepts! 😆😆😆
 
 **2020.09.26**
 - Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted by NeurIPS 2020!
