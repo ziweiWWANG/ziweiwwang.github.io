@@ -27,6 +27,8 @@ redirect_from:
 }
 </style>
 
+------
+
 Hi, this is Yicong, welcome to my homepage! 😀
 
 I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about).
@@ -45,7 +47,7 @@ News
 
 
 **2020.09.26**
-- Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀
+- Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
 
 **2020.09.15**
-- Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊
+- Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
