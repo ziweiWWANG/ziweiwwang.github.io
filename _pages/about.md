@@ -26,6 +26,8 @@ News
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal">[Cite](https://arxiv.org/abs/2011.13922)</button>
 
+<a class="button" href="https://arxiv.org/abs/2011.13922">Button</a>
+
 **2020.09.26**
 - Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀
 
