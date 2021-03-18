@@ -42,6 +42,10 @@ I has a broad research interests in computer vision, natural language processing
 News
 ======
 
+**2021.03.16**
+- My [Thinking-VLN](https://github.com/YicongHong/Thinking-VLN) online! Just for FUN thinking!
+
+
 **2021.03.06**
 - Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
