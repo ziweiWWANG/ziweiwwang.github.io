@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Thinking-VLN"
-    url: /thinking-vln/
+    url: https://github.com/YicongHong/Thinking-VLN
 
   - title: "Publications"
     url: /publications/
