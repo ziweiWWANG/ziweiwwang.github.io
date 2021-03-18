@@ -43,7 +43,7 @@ News
 ======
 
 **2021.03.16**
-- My [Thinking-VLN](https://github.com/YicongHong/Thinking-VLN) online! Just for FUN thinking!
+- My [Thinking-VLN](https://github.com/YicongHong/Thinking-VLN) repo online! Just for FUN thinking!
 
 
 **2021.03.06**
