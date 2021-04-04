@@ -61,15 +61,15 @@ Research
 ======
 <a target="_blank" style="text-decoration: none" href="https://arxiv.org/abs/2011.13922">**A Recurrent Vision-and-Language BERT for Navigation**<a/><br>
 **Yicong Hong**, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould<br>
-<em>Conference on Computer Vision and Pattern Recognition (CVPR), 2021<em><br>
+<em>Conference on Computer Vision and Pattern Recognition (CVPR), 2021<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
 <a target="_blank" style="text-decoration: none" href="https://arxiv.org/abs/2010.09304">**Language and Visual Entity Relationship Graph for Agent Navigation**<a/><br>
 **Yicong Hong**, Cristian Rodriguez-Opazo, Yuankai Qi, Qi Wu, Stephen Gould<br>
-<em>Conference on Neural Information Processing Systems (NeurIPS), 2020<em><br>
+<em>Conference on Neural Information Processing Systems (NeurIPS), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
 
 <a target="_blank" style="text-decoration: none" href="https://arxiv.org/abs/2004.02707">**Sub-Instruction Aware Vision-and-Language Navigation**<a/><br>
 **Yicong Hong**, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould<br>
-<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em><br>
+<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
