@@ -29,7 +29,7 @@ redirect_from:
 
 ------
 
-I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about).
+I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about). <a style="text-decoration:name;"rel="Click here" href="www.google.com.au">Google<a/>
 
 I am under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU), [Dr. Qi Wu](http://www.qi-wu.me/) (UoA) and [Prof. Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) (ANU).
 
@@ -55,6 +55,7 @@ News
 **2020.09.15**
 - Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
 
+------
 
 Research
 ======
