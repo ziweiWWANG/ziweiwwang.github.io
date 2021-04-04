@@ -33,7 +33,7 @@ I am a PhD student in the <a target="_blank" style="text-decoration: none" href=
 
 I am under the supervision of <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" style="text-decoration: none" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
-Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the Commonwealth Scientific and Industrial Research Organisation (CSIRO), working on human pose and shape visualization.
+Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the <a target="_blank" style="text-decoration: none" href="https://data61.csiro.au/">Data61, Commonwealth Scientific and Industrial Research Organisation (CSIRO)<a/>, working on human pose and shape visualization.
 
 I has a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of Vision-and-Language Navigation (VLN).
 
