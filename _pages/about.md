@@ -49,6 +49,9 @@ News
 **2021.03.06**
 - Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
+**2020.10.05**
+- I gave a guest lecture in the Deep Learning Course at ANU (ENGN8536) about Vision and Language Research! My first lecture at Uni! Nervous and Fun! 😀 <a target="_blank" href="https://drive.google.com/file/d/1Rsy8gFK0seWVgDJ6Uc0UU9MXO9F23EKY/view?usp=sharing"><button id="touch">PDF</button></a>
+
 **2020.09.26**
 - Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
 
