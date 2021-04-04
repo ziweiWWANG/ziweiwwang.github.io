@@ -29,7 +29,7 @@ redirect_from:
 
 ------
 
-I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about). <a style="text-decoration:name;"rel="Click here" href="www.google.com.au">Google<a/>
+I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about). <a style="text-decoration: none" href="www.google.com.au">Google<a/>
 
 I am under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU), [Dr. Qi Wu](http://www.qi-wu.me/) (UoA) and [Prof. Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) (ANU).
 
