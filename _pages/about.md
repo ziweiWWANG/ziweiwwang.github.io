@@ -54,3 +54,21 @@ News
 
 **2020.09.15**
 - Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
+
+
+Research
+======
+**A Recurrent Vision-and-Language BERT for Navigation**<br>
+**Yicong Hong**, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould<br>
+<em>Conference on Computer Vision and Pattern Recognition (CVPR), 2021<em><br>
+<a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
+
+**Language and Visual Entity Relationship Graph for Agent Navigation**<br>
+**Yicong Hong**, Cristian Rodriguez-Opazo, Yuankai Qi, Qi Wu, Stephen Gould<br>
+<em>Conference on Neural Information Processing Systems (NeurIPS), 2020<em><br>
+<a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
+
+**Sub-Instruction Aware Vision-and-Language Navigation**<br>
+**Yicong Hong**, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould<br>
+<em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em><br>
+<a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
