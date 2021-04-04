@@ -29,9 +29,9 @@ redirect_from:
 
 ------
 
-I am a PhD student in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at the [Australian National University (ANU)](https://www.anu.edu.au/). I am also a research student at the [Australian Centre for Robotic Vision (ACRV)](https://www.roboticvision.org/) and the [Vision-Ask-Answer-Act Lab (V3A)](https://v3alab.github.io/#about). <a target="_blank" style="text-decoration: none" href="https://www.roboticvision.org/">Google<a/>
+I am a PhD student in the <a target="_blank" style="text-decoration: none" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science<a/> at the <a target="_blank" style="text-decoration: none" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" style="text-decoration: none" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/> and the <a target="_blank" style="text-decoration: none" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
 
-I am under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU), [Dr. Qi Wu](http://www.qi-wu.me/) (UoA) and [Prof. Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) (ANU).
+I am under the supervision of <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" style="text-decoration: none" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
 Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the Commonwealth Scientific and Industrial Research Organisation (CSIRO), working on human pose and shape visualization.
 
