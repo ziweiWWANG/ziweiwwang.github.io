@@ -25,12 +25,16 @@ redirect_from:
  background: orange;
  box-shadow: 0px 0px 1px #777;
 }
+</style>
+
+<style type="text/css">
+a:link {text-decoration: none; }
 a:hover { text-decoration: underline; }
 </style>
 
 ------
 
-I am a PhD student in the <a target="_blank" style="text-decoration: none" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" style="text-decoration: none" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" style="text-decoration: none" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/> and the <a target="_blank" style="text-decoration: none" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
+I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" style="text-decoration: none" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" style="text-decoration: none" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/> and the <a target="_blank" style="text-decoration: none" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
 
 I am under the supervision of <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" style="text-decoration: none" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
