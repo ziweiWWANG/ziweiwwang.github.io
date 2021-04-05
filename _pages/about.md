@@ -36,7 +36,7 @@ a:hover { text-decoration: underline; }
 
 I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/> and the <a target="_blank" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
 
-I am under the supervision of <a target="_blank" style="text-decoration: none" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
+I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
 Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
