@@ -48,7 +48,7 @@ News
 ======
 
 **2021.04.10**
-- Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Jing Zhang, Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! PDF coming soon! 😀
+- Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Dr. Jing Zhang, Prof. Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! PDF coming soon! 😀
 
 **2021.03.16**
 - Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">Thinking-VLN</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
