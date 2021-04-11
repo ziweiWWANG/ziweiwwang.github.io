@@ -47,9 +47,11 @@ I has a broad research interests in computer vision, natural language processing
 News
 ======
 
+**2021.04.10**
+- Paper **Learning Structure-Aware Semantic Segmentationwith Image-Level Supervision** by Jiawei Liu, Jing Zhang, Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! PDF coming soon! 😀
+
 **2021.03.16**
 - Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">Thinking-VLN</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
-
 
 **2021.03.06**
 - Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
