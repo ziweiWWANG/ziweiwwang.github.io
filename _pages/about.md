@@ -83,3 +83,8 @@ Research
 **Yicong Hong**, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould<br>
 <em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
+  
+<a target="_blank" href="https://arxiv.org/abs/2104.04167">**Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation**<a/><br>
+Yuankai Qi, Zizheng Pan, **Yicong Hong**, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu<br>
+<em>arXiv preprint, 2021<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a>
