@@ -40,7 +40,7 @@ I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu
 
 Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
-I has a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of **Vision-and-Language Navigation (VLN)**. I believe, VLN provides a great oppotunity to merge a wide range of visiolinguistic research to create an embodied interative vision-and-language system which is practical to assist human in real-world.
+I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of **Vision-and-Language Navigation (VLN)**. I believe, VLN provides a great oppotunity to merge a wide range of visiolinguistic research to create an embodied interative vision-and-language system which is practical to assist human in real-world.
 
 ------
 
