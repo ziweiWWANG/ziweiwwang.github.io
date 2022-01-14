@@ -38,14 +38,17 @@ I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">Col
 
 I am under the supervision of <a target="_blank" href="http://users.cecs.anu.edu.au/~sgould/">Prof. Stephen Gould<a/> (ANU), <a target="_blank" href="http://www.qi-wu.me/">Dr. Qi Wu<a/> (UoA) and <a target="_blank" href="http://users.cecs.anu.edu.au/~xlx/">Prof. Lexing Xie<a/> (ANU).
 
-Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. During my undergraduate study, I spent 1 years and 3 months as a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
+Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
 
-I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of **Vision-and-Language Navigation (VLN)**. I believe, VLN provides a great oppotunity to merge a wide range of visiolinguistic research to create an embodied interative vision-and-language system which is practical to assist human in real-world.
+I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of **Embodied Vision-and-Language (E-V&L)**, and inparticular Vision-and-Language Navigation . I believe, E-V&L provides a great oppotunity to merge a wide range of visiolinguistic research to create an embodied interative system which is practical to assist human in real-world.
 
 ------
 
 News
 ======
+  
+**2021.08.17**
+- Paper **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** by Yuankai Qi, Zizheng Pan, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu and myself has been accepted to ICCV 2021! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YuankaiQi/ORIST"><button id="touch">Code</button></a>
 
 **2021.04.10**
 - Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Dr. Jing Zhang, Prof. Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.07216"><button id="touch">PDF</button></a>
