@@ -47,7 +47,7 @@ I have a broad research interests in computer vision, natural language processin
 News
 ======
 **2022.03.14**
-- I have started a research internship at the Creative Intelligence Lab with Adobe Research in San Jose, California, US!!! 😆😆😆
+- I have started a research internship at the Creative Intelligence Lab in Adobe Research in San Jose, California, US!!! 😆😆😆
   
 **2022.03.02**
 - Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 Perhaps not a very innovative work, but I am so happy to share lots of thoughts about VLN in this paper! <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
