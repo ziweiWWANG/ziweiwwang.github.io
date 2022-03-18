@@ -50,7 +50,7 @@ News
 - I have started a research internship at the Creative Intelligence Lab in Adobe Research in San Jose, California, US!!! 😆😆😆
   
 **2022.03.02**
-- Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 Perhaps not a very innovative work, but I am so happy to share lots of thoughts about VLN in this paper! See you guys in New Orleans! ❤️ <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
+- Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 I am so happy to share lots of thoughts about VLN in this paper! See you guys in New Orleans! ❤️ <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
   
 **2021.08.17**
 - Paper **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** by Yuankai Qi, Zizheng Pan, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu and myself has been accepted to ICCV 2021! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YuankaiQi/ORIST"><button id="touch">Code</button></a>
