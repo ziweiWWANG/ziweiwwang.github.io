@@ -51,7 +51,6 @@ News
   
 **2022.03.02**
 - Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 I am so happy to share lots of thoughts about VLN in this paper! See you guys in New Orleans! ❤️ <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
-  
 - Paper **HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Peng Wang, Qi Wu and myself has been accepted to CVPR 2022! Congrats Yanyuan on the first paper in her PhD! 😀 Paper and code coming soon.
   
 **2021.08.17**
