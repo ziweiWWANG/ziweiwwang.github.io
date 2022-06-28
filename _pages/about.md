@@ -49,7 +49,7 @@ News
 
 **2022.06.19**
 - Attending CVPR2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! ❤️❤️❤️
-- Congrats to Zun Wang, Dong An and Team for winning the Room-Across-Room (RxR) Habitat Challenge 2022!!! 😆⚡ <a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">PDF</button></a> <a target="_blank" href="[https://github.com/YicongHong/Discrete-Continuous-VLN](https://drive.google.com/file/d/15VbXcanw7D3q5TUm75WmDVslqgOmVvJk/view?usp=sharing)"><button id="touch">Code</button></a>
+- Congrats to Zun Wang, Dong An and Team JoyBoy for winning the Room-Across-Room (RxR) Habitat Challenge 2022!!! 😆⚡⚡ <a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">Report</button></a> <a target="_blank" href="https://drive.google.com/file/d/15VbXcanw7D3q5TUm75WmDVslqgOmVvJk/view?usp=sharing"><button id="touch">Certificate</button></a>
   
 **2022.05.10**  Invited talk by the NLP Lab at the Fudan University, really enjoyed chatting with everyone! 
   
