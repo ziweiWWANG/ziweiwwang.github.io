@@ -53,27 +53,27 @@ News
 
 **2022.06.15** &emsp; Visiting Professor Eric Xin Wang and the **ERIC Lab at the University of California Santa Cruz**! It was amazing to learn from so many young researchers! 😄
   
-**2022.05.10**  Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
+**2022.05.10** &emsp; Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
   
-**2022.03.14**  I have started a research internship at the **Creative Intelligence Lab in Adobe Research** in San Jose, California, US!!! 😆😆😆
+**2022.03.14** &emsp; I have started a research internship at the **Creative Intelligence Lab in Adobe Research** in San Jose, California, US!!! 😆😆😆
   
 **2022.03.02**
 - Our paper **Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation** has been accepted to CVPR 2022! 😊 I am so happy to share lots of thoughts about VLN in this paper! See you guys in New Orleans! ❤️ <a target="_blank" href="https://arxiv.org/abs/2203.02764"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Discrete-Continuous-VLN"><button id="touch">Code</button></a>
 - Paper **HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation** by Yanyuan Qiao, Yuankai Qi, Peng Wang, Qi Wu and myself has been accepted to CVPR 2022! Congrats Yanyuan on the first paper in her PhD! 😀 <a target="_blank" href="https://arxiv.org/abs/2203.11591"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YanyuanQiao/HOP-VLN"><button id="touch">Code</button></a>
   
-**2021.08.17**  Paper **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** by Yuankai Qi, Zizheng Pan, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu and myself has been accepted to ICCV 2021! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YuankaiQi/ORIST"><button id="touch">Code</button></a>
+**2021.08.17** &emsp; Paper **The Road To Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation** by Yuankai Qi, Zizheng Pan, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu and myself has been accepted to ICCV 2021! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.04167"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YuankaiQi/ORIST"><button id="touch">Code</button></a>
 
-**2021.04.10**  Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Dr. Jing Zhang, Prof. Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.07216"><button id="touch">PDF</button></a>
+**2021.04.10** &emsp; Paper **Learning Structure-Aware Semantic Segmentation with Image-Level Supervision** by Jiawei Liu, Dr. Jing Zhang, Prof. Nick Barnes and myself, has been accepted to IJCNN 2021! Congrats Jiawei on his first paper in computer vision! 😀 <a target="_blank" href="https://arxiv.org/abs/2104.07216"><button id="touch">PDF</button></a>
 
-**2021.03.16**  Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">Thinking-VLN</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
+**2021.03.16** &emsp; Our <a target="_blank" href="https://github.com/YicongHong/Thinking-VLN">Thinking-VLN</a> repo is online! Come to enjoy our immature ideas and share your thoughts! Just for FUN thinking!
 
-**2021.03.06**  Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
+**2021.03.06** &emsp; Our paper **A Recurrent Vision-and-Language BERT for Navigation** has been accepted to CVPR 2021 as an Oral paper with 3 strong accepts! 😆😆😆 <a target="_blank" href="https://arxiv.org/abs/2011.13922"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Recurrent-VLN-BERT"><button id="touch">Code</button></a>
 
-**2020.10.05**  I gave a guest lecture in the Deep Learning Course at ANU (ENGN8536) about Vision and Language Research! My first lecture at Uni! Nervous and Fun! 😀 <a target="_blank" href="https://drive.google.com/file/d/1Rsy8gFK0seWVgDJ6Uc0UU9MXO9F23EKY/view?usp=sharing"><button id="touch">PDF</button></a>
+**2020.10.05** &emsp; I gave a guest lecture in the Deep Learning Course at ANU (ENGN8536) about Vision and Language Research! My first lecture at Uni! Nervous and Fun! 😀 <a target="_blank" href="https://drive.google.com/file/d/1Rsy8gFK0seWVgDJ6Uc0UU9MXO9F23EKY/view?usp=sharing"><button id="touch">PDF</button></a>
 
-**2020.09.26**  Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
+**2020.09.26** &emsp; Our paper **Language and Visual Entity Relationship Graph for Agent Navigation** has been accepted to NeurIPS 2020! 😀 <a target="_blank" href="https://arxiv.org/abs/2010.09304"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Entity-Graph-VLN"><button id="touch">Code</button></a>
 
-**2020.09.15**  Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
+**2020.09.15** &emsp; Our paper **Sub-Instruction Aware Vision-and-Language Navigation** has been accepted to EMNLP 2020! My first paper! 😊 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
 
 ------
 
