@@ -96,6 +96,12 @@ Research
 **Yicong Hong**, Cristian Rodriguez-Opazo, Qi Wu, Stephen Gould<br>
 <em>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020<em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2004.02707"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YicongHong/Fine-Grained-R2R"><button id="touch">FGR2R Data</button></a>
+
+<a target="_blank" href="https://arxiv.org/abs/2104.04167">**HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation
+**<a/><br>
+Yanyuan Qiao, Yuankai Qi, **Yicong Hong**, Zheng Yu, Peng Wang, Qi Wu<br>
+<em>Conference on Computer Vision and Pattern Recognition (CVPR), 2022<em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2203.11591"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/YanyuanQiao/HOP-VLN"><button id="touch">Code</button></a>
   
 <a target="_blank" href="https://arxiv.org/abs/2104.04167">**The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation**<a/><br>
 Yuankai Qi, Zizheng Pan, **Yicong Hong**, Ming-Hsuan Yang, Anton van den Hengel, Qi Wu<br>
