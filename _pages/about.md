@@ -51,9 +51,9 @@ News
 - Attending CVPR2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! ❤️❤️❤️
 - Congrats to Zun Wang, Dong An and Team **JoyBoy** for winning the **1st Place in the Room-Across-Room (RxR) Habitat Challenge 2022**!!! 😆⚡⚡ <a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">Report</button></a> <a target="_blank" href="https://drive.google.com/file/d/15VbXcanw7D3q5TUm75WmDVslqgOmVvJk/view?usp=sharing"><button id="touch">Certificate</button></a>
 
-**2022.06.15**  Visiting Professor Eric Xin Wang and the ERIC Lab at the UCSC! It was amazing to learn from so many young researchers! 😄
+**2022.06.15**  Visiting Professor Eric Xin Wang and the **ERIC Lab at the University of California Santa Cruz**! It was amazing to learn from so many young researchers! 😄
   
-**2022.05.10**  Invited talk by the NLP Lab at the Fudan University, really enjoyed chatting with everyone! 😄
+**2022.05.10**  Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
   
 **2022.03.14**  I have started a research internship at the **Creative Intelligence Lab in Adobe Research** in San Jose, California, US!!! 😆😆😆
   
