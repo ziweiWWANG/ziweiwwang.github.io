@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yicong Hong"
+title                    : "Ziwei Wang"
 title_separator          : "-"
-name                     : &name "Yicong Hong"
-description              : &description "PhD student at the Australian National University and the Australian Centre for Robotic Vision"
-url                      : https://yiconghong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ziwei Wang"
+description              : &description "PhD Student at The Australian National University and the Australian Centre for Robotic Vision | Computer Vision, Event Camera and Robotics."
+url                      : https://ziweiwwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/YicongHong"
+repository               : "https://github.com/ziweiwwang"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yicong Hong"
+  name             : "Ziwei Wang"
   avatar           : "mex.jpg"
-  bio              : "PhD student at the Australian National University and the Australian Centre for Robotic Vision"
+  bio              : "PhD student at the Australian National University and the Australian Centre for Robotic Vision | Computer Vision, Event Camera and Robotics."
   location         : "Canberra, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AerHOzUAAAAJ&hl=en"
-  email            : "yicong.hong@anu.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Yicong_Hong2"
+  googlescholar    : "https://scholar.google.com/citations?user=hklkyjYAAAAJ&hl=en"
+  email            : "ziwei.wang1@anu.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Ziwei-Wang-52"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YicongHong"
+  github           : "ziweiwwang"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YicongHong"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
