@@ -38,7 +38,7 @@ I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">Col
 
 I am under the supervision of <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/> (ANU), <a target="_blank" href="https://scholar.google.com/citations?user=DeHsa3wAAAAJ&hl=en">Dr. Yonhon Ng<a/> (ANU) and <a target="_blank" href="https://users.cecs.anu.edu.au/~nmb/">Prof. Nick Barnes<a/> (ANU).
 
-Prior to that, in Nov'2018, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018, I was also a part-time research student at the <a target="_blank" href="https://data61.csiro.au/">Data61, CSIRO<a/>, working on human pose and shape visualization.
+Prior to that, in December 2019, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018-2019, I was also a summer research intern at the <a target="_blank" href="https://cecs.anu.edu.au/study/more-information/summer-research-program"> ANU College of Engineering & Computer Science <a/>, working on image processing and simulation.
 
 I have a broad research interests in computer vision, natural language processing and robotics. Currently, my main research focus is on the problem of **Embodied Vision-and-Language (E-V&L)**, and inparticular Vision-and-Language Navigation . I believe, E-V&L has the great potential to merge a wide range of visiolinguistic research to create an embodied interative system which is practical to assist human in real-world.
 
@@ -47,11 +47,15 @@ I have a broad research interests in computer vision, natural language processin
 News
 ======
 
-**2022.06.19**
-- Attending CVPR2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! ❤️❤️❤️
-- Congrats to Zun Wang, Dong An and Team **JoyBoy** for winning the **1st Place in the Room-Across-Room (RxR) Habitat Challenge 2022**!!! 😆⚡⚡ <a target="_blank" href="https://arxiv.org/abs/2206.11610"><button id="touch">Report</button></a> <a target="_blank" href="https://drive.google.com/file/d/15VbXcanw7D3q5TUm75WmDVslqgOmVvJk/view?usp=sharing"><button id="touch">Certificate</button></a>
+**2022.05.23**
+- Attending ICRA2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! 
+Thanks..
+Upeen
+UMD
 
-**2022.06.15** &emsp; Visiting Professor Eric Xin Wang and the **ERIC Lab at the University of California Santa Cruz**! It was amazing to learn from so many young researchers! 😄
+**2022.06.01** &emsp; Visiting Professor Kostas Daniilidis <a target="_blank" href="http://users.umiacs.umd.edu/~yiannis/"> and the **GRASP Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
+  
+**2022.06.03** &emsp; Visiting Professor Yiannis Aloimonos and Dr Cornelia Fermüller at **RPG Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
   
 **2022.05.10** &emsp; Invited talk by the **NLP Lab at the Fudan University**, really enjoyed chatting with everyone! 😄
   
