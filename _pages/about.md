@@ -34,7 +34,7 @@ a:hover { text-decoration: underline; }
 
 ------
 
-I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/> and the <a target="_blank" href="https://v3alab.github.io/#about">Vision-Ask-Answer-Act Lab (V3A)<a/>.
+I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/>.
 
 I am under the supervision of <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/> (ANU), <a target="_blank" href="https://scholar.google.com/citations?user=DeHsa3wAAAAJ&hl=en">Dr. Yonhon Ng<a/> (ANU) and <a target="_blank" href="https://users.cecs.anu.edu.au/~nmb/">Prof. Nick Barnes<a/> (ANU).
 
