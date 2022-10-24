@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Thinking-VLN"
-    url: https://github.com/YicongHong/Thinking-VLN
+#  - title: "Thinking-VLN"
+#    url: https://github.com/YicongHong/Thinking-VLN
 
 #   - title: "Talks"
 #     url: /talks/    
