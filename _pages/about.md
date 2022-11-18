@@ -44,15 +44,14 @@ Prior to that, in December 2019, I received my bachelor degree of engineering in
 
 News
 ======
-
-**2022.05.23**
-- Attending ICRA2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! 
-
+**2022.11.11** Finished my 4-months internship at <a target="_blank" href="https://www.nuro.ai/">Nuro (Mountain View, California)<a/>, an robotics company developing autonomous delivery vehicles.
+  
 **2022.06.01** &emsp; Visiting Professor Kostas Daniilidis <a target="_blank" href="http://users.umiacs.umd.edu/~yiannis/"> and the **GRASP Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
   
-**2022.06.03** &emsp; Visiting Professor Yiannis Aloimonos and Dr Cornelia Fermüller at **RPG Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
+**2022.05.31** &emsp; Visiting Professor Yiannis Aloimonos and Dr Cornelia Fermüller at **RPG Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
   
-
+**2022.05.23**
+Attending ICRA2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! 
 ------
 
 Research
