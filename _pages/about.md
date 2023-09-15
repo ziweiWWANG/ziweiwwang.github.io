@@ -54,6 +54,16 @@ News
 
 Research
 ======
+<a target="_blank" href="https://arxiv.org/abs/2309.01159">**An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras**<a/><br>
+**Ziwei Wang**, Yonhon Ng, Cedric Scheerlinck and Robert Mahony<br>
+<em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, <em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2309.01159"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Asynchronous-Filter"><button id="touch">Code</button></a>
+
+<a target="_blank" href="https://arxiv.org/abs/2307.10593">**Event Blob Tracking: An Asynchronous Real-Time Algorithm**<a/><br>
+**Ziwei Wang**, Timothy Molloy, Pieter van Goor and Robert Mahony<br>
+<em>arXiv, 2023, <em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Blob-Tracking"><button id="touch">Page</button></a>
+
 <a target="_blank" href="https://arxiv.org/abs/2208.01710">**Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras**<a/><br>
 **Ziwei Wang**, Yonhon Ng, Jack Henderson and Robert Mahony<br>
 <em>International Conference on Intelligent Robots and Systems (IROS), 2022, <em/><br>
