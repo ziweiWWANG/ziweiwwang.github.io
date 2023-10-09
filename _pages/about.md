@@ -38,7 +38,7 @@ I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">Col
 
 I am under the supervision of <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/> (ANU), <a target="_blank" href="https://scholar.google.com/citations?user=DeHsa3wAAAAJ&hl=en">Dr. Yonhon Ng<a/> (ANU) and <a target="_blank" href="https://users.cecs.anu.edu.au/~nmb/">Prof. Nick Barnes<a/> (ANU).
 
-Prior to that, in December 2019, I received my bachelor degree of engineering in mechatronic systems with a first-class honours in the College of Engineering and Computer Science at ANU. In 2018-2019, I was also a summer research intern at the <a target="_blank" href="https://cecs.anu.edu.au/study/more-information/summer-research-program"> ANU College of Engineering & Computer Science <a/>, working on image processing and simulation.
+Prior to that, in December 2019, I received my bachelor's degree of Engineering in Mechatronics with first-class honours in the College of Engineering and Computer Science at ANU. In 2018-2019, I was also a summer research intern at the <a target="_blank" href="https://cecs.anu.edu.au/study/more-information/summer-research-program"> ANU College of Engineering & Computer Science <a/>, working on image processing and simulation.
 
 ------
 
@@ -46,11 +46,11 @@ News
 ======
 **2022.07.25 - 2022.11.11** &emsp; Working as a PhD research scientist intern at <a target="_blank" href="https://www.nuro.ai/">Nuro (Mountain View, California)<a/>, a robotics company developing autonomous delivery vehicles. I enjoy working with so many smart and brilliant people at Nuro!
   
-**2022.06.01** &emsp; Visiting Professor Kostas Daniilidis <a target="_blank" href="http://users.umiacs.umd.edu/~yiannis/"> and the **GRASP Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
+**2022.06.01** &emsp; Visiting <a target="_blank" href="https://www.cis.upenn.edu/~kostas/"> Professor Kostas Daniilidis <a/> in the **GRASP Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
   
-**2022.05.31** &emsp; Visiting Professor Yiannis Aloimonos and Dr Cornelia Fermüller at **RPG Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
+**2022.05.31** &emsp; Visiting <a target="_blank" href="http://users.umiacs.umd.edu/~yiannis/"> Professor Yiannis Aloimonos <a/> and <a target="_blank" href="https://users.umiacs.umd.edu/~fer/"> Dr Cornelia Fermüller <a/> at **RPG Lab at the University of Maryland**! It was amazing to learn from so many researchers working in event camera research! 
   
-**2022.05.23** &emsp; Attending ICRA2022 in person!!! Finally meeting so many great researchers! I have learned so much!!! 
+**2022.05.23** &emsp; Attending ICRA2022 in person!!! I have met so many great researchers and learned so much!!! 
 
 Research
 ======
