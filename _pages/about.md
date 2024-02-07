@@ -44,6 +44,10 @@ Prior to that, in December 2019, I received my bachelor's degree of Engineering 
 
 News
 ======
+**2023.12.04** &emsp; It is an honor to host Prof. Tobi Delbruck at ANU with my supervisor <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/>! I really enjoyed the in-depth discussion we had, and thanks for inspiring me!
+
+**2023.08.17** &emsp; Our journal paper **An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras** has been accepted by TPAMI! 😆😆 <a target="_blank" href="https://arxiv.org/pdf/2309.01159.pdf"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Asynchronous-Filter"><button id="touch">Code</button></a>
+
 **2022.07.25 - 2022.11.11** &emsp; Working as a PhD research scientist intern at <a target="_blank" href="https://www.nuro.ai/">Nuro (Mountain View, California)<a/>, a robotics company developing autonomous delivery vehicles. I enjoy working with so many smart and brilliant people at Nuro!
   
 **2022.06.01** &emsp; Visiting <a target="_blank" href="https://www.cis.upenn.edu/~kostas/"> Professor Kostas Daniilidis <a/> in the **GRASP Lab at the University of Pennsylvania**! It was amazing to learn from so many researchers working in event camera research! 
