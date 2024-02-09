@@ -44,7 +44,10 @@ Prior to that, in December 2019, I received my bachelor's degree of Engineering 
 
 News
 ======
-**2023.12.04** &emsp; It is an honor to host Prof. Tobi Delbruck at ANU with my supervisor <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/>! I really enjoyed the in-depth discussion we had, and thanks for inspiring me!
+**2023.12.11 - 2023.12.13** &emsp; Attended the fabulous NeuroEng workshop at Sydney organized by the International Centre for Neuromorphic Systems! Meeting old and new friends, and so many great researchers is definitely the highlight!
+
+
+**2023.12.04** &emsp; It is an honor to host Prof. Tobi Delbruck at ANU with my supervisor <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/>! I really enjoyed the in-depth discussion we had. Thanks for inspiring me!
 
 **2023.08.17** &emsp; Our journal paper **An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras** has been accepted by TPAMI! 😆😆 <a target="_blank" href="https://arxiv.org/pdf/2309.01159.pdf"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Asynchronous-Filter"><button id="touch">Code</button></a>
 
