@@ -44,12 +44,23 @@ Prior to that, in December 2019, I received my bachelor's degree of Engineering 
 
 News
 ======
+
+**2024.05.06 - 2024.11.25** &emsp; Working as an applied scientist intern at Amazon AU. Research on large vision-language models and recommendation systems.
+
+**2024.08.08** &emsp; Our journal paper **Asynchronous Blob Tracker for Event Cameras** has been accepted by TRO! 😆 <a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Code</button></a>
+
+
+**2024.06.03 - 2024.06.14** &emsp; Visit event camera research labs and companies in Europe — the perfect trip to conclude my PhD research!
+- Visiting <a target="_blank" href="https://www.ini.uzh.ch/~tobi/">Prof. Tobi Delbruck<a/> and  <a target="_blank" href="https://sensors.ini.ch/people/shih-chii-liu">Prof. Shih-Chii Liu<a/>'s lab at Inst. of Neuroinformatics, UZH-ETH Zurich.
+- Visiting <a target="_blank" href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Professor Davide Scaramuzza<a/>'s lab at Robotics and Perception Group, University of Zurich.
+- Visiting <a target="_blank" href="https://inivation.com/">iniVation<a/> and kindly hosted by current CEO <a target="_blank" href="https://www.kynaneng.com/">Dr. Kynan Eng<a/>.
+- Visiting <a target="_blank" href="https://sites.google.com/view/guillermogallego">Prof. Guillermo Gallego<a/>'s lab at Technische Universität Berlin.
+- Visiting <a target="_blank" href="https://www.prophesee.ai/"> Prophesee<a/> in Pairs.
+- Delivered three academic talks at the ETH, University of Zurich, and TU Berlin.
+
 **2023.12.11 - 2023.12.13** &emsp; Attended the fabulous NeuroEng workshop at Sydney organized by the International Centre for Neuromorphic Systems! Meeting old and new friends, and so many great researchers is definitely the highlight!
 
-
-
-
-**2023.12.04** &emsp; It is an honor to host <a target="_blank" href="https://www.ini.uzh.ch/~tobi/">Prof. Tobi Delbruck<a/> at ANU with my supervisor <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/>! I really enjoyed the in-depth discussion we had. Thanks for inspiring me!
+**2023.12.04** &emsp; It is an honor to host <a target="_blank" href="https://www.ini.uzh.ch/~tobi/">Prof. Tobi Delbruck<a/> at ANU with my supervisor <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/> in ANU (Canberra)! I really enjoyed the in-depth discussion we had. Thanks for inspiring me!
 
 **2023.08.17** &emsp; Our journal paper **An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras** has been accepted by TPAMI! 😆😆 <a target="_blank" href="https://arxiv.org/pdf/2309.01159.pdf"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Asynchronous-Filter"><button id="touch">Code</button></a>
 
@@ -63,15 +74,16 @@ News
 
 Research
 ======
+
+<a target="_blank" href="https://arxiv.org/abs/2307.10593">**Asynchronous Blob Tracker for Event Cameras**<a/><br>
+**Ziwei Wang**, Timothy Molloy, Pieter van Goor and Robert Mahony<br>
+<em>IEEE Transactions on Robotics (TRO), 2024, <em/><br>
+<a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Page</button></a>
+
 <a target="_blank" href="https://arxiv.org/abs/2309.01159">**An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras**<a/><br>
 **Ziwei Wang**, Yonhon Ng, Cedric Scheerlinck and Robert Mahony<br>
 <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023, <em/><br>
 <a target="_blank" href="https://arxiv.org/abs/2309.01159"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Asynchronous-Filter"><button id="touch">Code</button></a>
-
-<a target="_blank" href="https://arxiv.org/abs/2307.10593">**Event Blob Tracking: An Asynchronous Real-Time Algorithm**<a/><br>
-**Ziwei Wang**, Timothy Molloy, Pieter van Goor and Robert Mahony<br>
-<em>arXiv, 2023, <em/><br>
-<a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/Event-Blob-Tracking"><button id="touch">Page</button></a>
 
 <a target="_blank" href="https://arxiv.org/abs/2208.01710">**Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras**<a/><br>
 **Ziwei Wang**, Yonhon Ng, Jack Henderson and Robert Mahony<br>
