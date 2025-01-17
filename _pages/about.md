@@ -43,10 +43,8 @@ Prior to that, in December 2019, I received my bachelor's degree of Engineering 
 
 News
 ======
-**2024.12.30** &emsp; Congrats to Shijie Lin for the journal paper [Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8) has been published in Nature Communications!! Great work and great collaborations!
+**2024.12.30** &emsp; Congrats to Shijie Lin on the publication of the journal paper, [Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8), in Nature Communications!! Great work and great collaborations!
 
-
-Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright
 
 
 **2024.05.06 - 2024.11.25** &emsp; Working as an applied scientist intern at Amazon AU. Research on large vision-language models and recommendation systems. Find our preprint paper: [Learning Visual Hierarchies with Hyperbolic Embeddings](https://arxiv.org/pdf/2411.17490)!
