@@ -43,10 +43,15 @@ Prior to that, in December 2019, I received my bachelor's degree of Engineering 
 
 News
 ======
+**2024.12.30** &emsp; Congrats to Shijie Lin for the journal paper [Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8) has been published in Nature Communications!! Great work and great collaborations!
+
+
+Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright
+
 
 **2024.05.06 - 2024.11.25** &emsp; Working as an applied scientist intern at Amazon AU. Research on large vision-language models and recommendation systems. Find our preprint paper: [Learning Visual Hierarchies with Hyperbolic Embeddings](https://arxiv.org/pdf/2411.17490)!
 
-**2024.08.08** &emsp; Our journal paper **Asynchronous Blob Tracker for Event Cameras** has been accepted by TRO! 😆 <a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Code</button></a>
+**2024.09.04** &emsp; Our journal paper [Asynchronous Blob Tracker for Event Cameras](https://ieeexplore.ieee.org/document/10665915) has been published in TRO! 😆 <a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Code</button></a>
 
 
 **2024.06.03 - 2024.06.14** &emsp; Visit event camera research labs and companies in Europe — the perfect trip to conclude my PhD research!
