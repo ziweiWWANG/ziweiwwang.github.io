@@ -45,8 +45,6 @@ News
 ======
 **2024.12.30** &emsp; Congrats to Shijie Lin on the publication of the journal paper, [Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8), in Nature Communications!! Great work and great collaborations!
 
-
-
 **2024.05.06 - 2024.11.25** &emsp; Working as an applied scientist intern at Amazon AU. Research on large vision-language models and recommendation systems. Find our preprint paper: [Learning Visual Hierarchies with Hyperbolic Embeddings](https://arxiv.org/pdf/2411.17490)!
 
 **2024.09.04** &emsp; Our journal paper [Asynchronous Blob Tracker for Event Cameras](https://ieeexplore.ieee.org/document/10665915) has been published in TRO! 😆 <a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Code</button></a>
@@ -76,6 +74,16 @@ News
 
 Research
 ======
+
+<a target="_blank" href="https://arxiv.org/pdf/2411.17490">**Learning Visual Hierarchies with Hyperbolic Embeddings**<a/><br>
+**Ziwei Wang**, Sameera Ramasinghe, Chenchen Xu, Julien Monteil, Loris Bazzani, Thalaiyasingam Ajanthan<br>
+<em>arXiv PrePrint, 2024, <em/><br>
+<a target="_blank" href="https://arxiv.org/pdf/2411.17490"><button id="touch">PDF</button></a> 
+
+<a target="_blank" href="https://www.nature.com/articles/s41467-024-54789-8">**Embodied Neuromorphic Synergy for Lighting-Robust Machine Vision to See in Extreme Bright**<a/><br>
+Shijie Lin, Guangze Zheng, **Ziwei Wang**, Ruihua Han, Wanli Xing, Zeqing Zhang, Yifan Peng, Jia Pan<br>
+<em>Nature Communications, 2024, <em/><br>
+<a target="_blank" href="https://www.nature.com/articles/s41467-024-54789-8"><button id="touch">PDF</button></a> 
 
 <a target="_blank" href="https://arxiv.org/abs/2307.10593">**Asynchronous Blob Tracker for Event Cameras**<a/><br>
 **Ziwei Wang**, Timothy Molloy, Pieter van Goor and Robert Mahony<br>
