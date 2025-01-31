@@ -37,12 +37,14 @@ a:hover { text-decoration: underline; }
 I am a PhD student in the <a target="_blank" href="https://cecs.anu.edu.au/">College of Engineering and Computer Science (CECS)<a/> at the <a target="_blank" href="https://www.anu.edu.au/">Australian National University (ANU)<a/>. I am also a research student at the <a target="_blank" href="https://www.roboticvision.org/">Australian Centre for Robotic Vision (ACRV)<a/>. I worked as a PhD Research intern at the autonomous driving company [Nuro](https://www.nuro.ai/) from June to November 2022 in Mountain View, California, and at Amazon on vision-language models from May to November 2024.
 
 I am under the supervision of <a target="_blank" href="https://users.cecs.anu.edu.au/~Robert.Mahony/">Prof. Robert Mahony<a/> at ANU.
-Prior to that, in December 2019, I received my bachelor's degree of Engineering in Mechatronics with first-class honours in the College of Engineering and Computer Science at ANU. In 2018-2019, I was also a summer research intern at the <a target="_blank" href="https://cecs.anu.edu.au/study/more-information/summer-research-program"> ANU College of Engineering & Computer Science <a/>, working on image processing and simulation.
+Prior to that, in December 2019, I received my bachelor's degree of Engineering in Mechatronics with first-class honours in the College of Engineering and Computer Science at ANU. 
 
 ------
 
 News
 ======
+**2025.01.28** &emsp; Congrats to Angus Apps on the acceptance of the paper "Asynchronous Multi-Object Tracking with an Event Camera" to ICRA 2025! Our TRO journal paper [Asynchronous Blob Tracker for Event Cameras](https://ieeexplore.ieee.org/document/10665915) has also been selected for presentation at ICRA 2025!! 😆 <a target="_blank" href="https://arxiv.org/abs/2307.10593"><button id="touch">PDF</button></a> <a target="_blank" href="https://github.com/ziweiWWANG/AEB-Tracker"><button id="touch">Code</button></a>
+
 **2024.12.30** &emsp; Congrats to Shijie Lin on the publication of the journal paper, [Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8), in Nature Communications!! Great work and great collaborations!
 
 **2024.05.06 - 2024.11.25** &emsp; Working as an applied scientist intern at Amazon AU. Research on large vision-language models and recommendation systems. Find our preprint paper: [Learning Visual Hierarchies with Hyperbolic Embeddings](https://arxiv.org/pdf/2411.17490)!
